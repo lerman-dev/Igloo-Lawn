@@ -1,8 +1,4 @@
-# Igloo Lawn
-
-> A custom, vibe-coded fork of the main [Lawnchair](https://github.com/LawnchairLauncher/lawnchair) launcher for Android, featuring tailored UI/UX enhancements and creative modifications.
-
----
+dhxyebzbsztzd# Igloo Lawn> A custom, vibe-coded fork of the main [Lawnchair](https://github.com/LawnchairLauncher/lawnchair) launcher for Android, featuring tailored UI/UX enhancements and creative modifications.---
 
 ## 💡 About Igloo Lawn
 
